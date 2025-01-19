@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Gray Wolf",
+        "category": "Mammal",
+        "description": "The gray wolf is a large carnivorous mammal...",
+        "imageName": "gray_wolf",
+        "scientificName": "Canis lupus"
+    },
+    {
+        "name": "American Black Bear",
+        "category": "Mammal",
+        "description": "The American black bear is a versatile omnivore...",
+        "imageName": "american_black_bear",
+        "scientificName": "Ursus americanus"
+    }
+]
