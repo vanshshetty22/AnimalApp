@@ -13,4 +13,12 @@
         "imageName": "american_black_bear",
         "scientificName": "Ursus americanus"
     }
+    ,
+    {
+        "name": "Vansh Gorilla hybrid",
+        "category": "Mammal",
+        "description": "stinks like shit...",
+        "imageName": "vansh",
+        "scientificName": "Ursus Homo americanus"
+    }
 ]
